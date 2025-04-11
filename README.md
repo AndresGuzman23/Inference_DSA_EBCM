@@ -42,6 +42,5 @@ This folder contains samples of synthetic data sets produced from Gillespie simu
 The paraemters used for the sumualtions are: beta=0.2, gamma=1, rho=0.001.
 For the network structures: Poisson with average degree mu=10, and Negative binomial with average degree 10, r=1.
 
-
-
+Unfortunalty, the real data-sets used in the papaer are not publicly avialable. 
 
